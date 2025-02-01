@@ -4,30 +4,56 @@ h1, h2, h3, h4, h5, h6 {
   color: #D5AF67;
 }
 
-/* Unified Section Styles */
 .section {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   gap: 2rem;
-  align-items: center;
+  align-items: flex-start;
   margin: 2rem 0;
 }
 
-.section > .section-teaser,
-.section > .section-body {
-  flex: 1;
-  min-width: 300px;
+.section-teaser {
+  order: 1;
 }
 
-/* Teaser Image */
-.section-teaser img {
-  max-width: 100%;
-  border-radius: 10px;
-}
-
-/* Body Padding */
 .section-body {
-  padding: 20px;
+  order: 2;
+}
+
+/* Responsive images */
+.section-teaser img {
+  width: 100%;
+  height: auto;
+}
+
+/* Desktop Overrides */
+@media (min-width: 768px) {
+  .section {
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+
+  .section-teaser,
+  .section-body {
+    flex: 1 1 50%;
+  }
+
+  /* For odd-numbered sections: image left, text right */
+  .section:nth-of-type(odd) .section-teaser {
+    order: 2;
+  }
+  .section:nth-of-type(odd) .section-body {
+    order: 1;
+  }
+
+  /* For even-numbered sections: image right, text left */
+  .section:nth-of-type(even) .section-teaser {
+    order: 1;
+  }
+  .section:nth-of-type(even) .section-body {
+    order: 2;
+  }
 }
 
 /* Social Links */

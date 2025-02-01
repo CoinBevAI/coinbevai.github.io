@@ -8,6 +8,30 @@ title: "Taking back the beer market, one sip at a time!"
 excerpt: "Welcome to the crypto beer revolution!"
 ---
 
+
+<div class="section">
+  <div class="section-body">
+    <h1>Stack Crypto, Earn Beer!</h1>
+    <ul>
+      <li>Turn your crypto into REAL beer with $CoinBevAI!</li>
+      <li>
+        <strong>Stackable Staking Rewards:</strong>
+        <ul>
+          <li>100,000 tokens = 20 MetaBrew cans every 90 days</li>
+          <li>500,000 tokens = 100 cans every 90 days</li>
+          <li>1,000,000 tokens = 200 cans every 90 days</li>
+        </ul>
+      </li>
+      <li>Bonus: 15% off beer orders when paying with $CoinBevAI</li>
+      <li>Backed by MetaBrewSociety – Global beer-crypto ecosystem with more breweries joining in 2025</li>
+    </ul>
+  </div>
+  <div class="section-teaser">
+    <img src="/assets/images/earn_beer.jpg" alt="Earn Beer">
+  </div>
+</div>
+
+
 <!-- First Manifesto -->
 <div class="section">
   <div class="section-teaser">
@@ -81,11 +105,25 @@ excerpt: "Welcome to the crypto beer revolution!"
   </div>
   <div class="section-body">
     <h1>Roadmap</h1>
+    
+    <h2>2024</h2>
     <ul>
-      <li>Let´s take the beer market back (ongoing)</li>
-      <li>IRL BEER for staking $CoinBevAI (Q1 2025) – We call it ‚LIQUID STAKING‘</li>
-      <li>On chain Operating System for the Brewing Industry (Q2/3 2025)</li>
-      <li>Let´s flip AB InBev (current market cap: $110 bn)</li>
+      <li>Launch $CoinBevAI and staking platform. (Done)</li>
+      <li>Integrate payment systems for $CoinBevAI at MetaBrewSociety. (Done)</li>
+      <li>Begin brewery onboarding campaigns. (Done)</li>
+    </ul>
+    
+    <h2>2025</h2>
+    <ul>
+      <li>Expand brewery partnerships globally.</li>
+      <li>Introduce fractional staking rewards as the coin’s value grows.</li>
+      <li>Develop a robust online beer marketplace powered by $CoinBevAI.</li>
+    </ul>
+    
+    <h2>Beyond 2025</h2>
+    <ul>
+      <li>Scale $CoinBevAI into a global beer economy.</li>
+      <li>Implement advanced features like NFT integrations and decentralized voting for ecosystem decisions.</li>
     </ul>
   </div>
 </div>
