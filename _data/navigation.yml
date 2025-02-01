@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Tokenomics"
+    url: /tokenomics/
+  - title: "Utility"
+    url: /utility/
+  - title: "Documentation"
+    url: /documentation/
