@@ -23,7 +23,7 @@ excerpt: "Welcome to the crypto beer revolution!"
         </ul>
       </li>
       <li>Bonus: 15% off beer orders when paying with $CoinBevAI</li>
-      <li>Backed by MetaBrewSociety – Global beer-crypto ecosystem with more breweries joining in 2025</li>
+      <li>Backed by MetaBrewSociety in 2025</li>
     </ul>
   </div>
   <div class="section-teaser">
@@ -109,12 +109,12 @@ excerpt: "Welcome to the crypto beer revolution!"
     <h2>2024</h2>
     <ul>
       <li>Launch $CoinBevAI and staking platform. (Done)</li>
-      <li>Integrate payment systems for $CoinBevAI at MetaBrewSociety. (Done)</li>
-      <li>Begin brewery onboarding campaigns. (Done)</li>
     </ul>
     
     <h2>2025</h2>
     <ul>
+      <li>Integrate payment systems for $CoinBevAI at MetaBrewSociety. (In progress)</li>
+      <li>Begin brewery onboarding campaigns. (In progress)</li>
       <li>Expand brewery partnerships globally.</li>
       <li>Introduce fractional staking rewards as the coin’s value grows.</li>
       <li>Develop a robust online beer marketplace powered by $CoinBevAI.</li>

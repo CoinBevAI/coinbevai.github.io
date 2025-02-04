@@ -7,11 +7,5 @@ toc_sticky: true
 ---
 
 ## Whitepaper
-Waiting for contributions...
+[Download our Whitepaper](/assets/pdf/White Paper CoinBevAI.pdf)
 
-## Crypto Guide for Beginners
-Basic explanation...
-
-## FAQ
-**Q: Question 1?**
-A: Answer 1...
