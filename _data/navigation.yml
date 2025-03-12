@@ -7,3 +7,7 @@ main:
     url: /utility/
   - title: "Documentation"
     url: /documentation/
+  - title: "Redeem for beer"
+    url: https://www.metabrewsociety.com/en/pages/coinbevai
+    target: "_blank"
+    rel: "noopener noreferrer"

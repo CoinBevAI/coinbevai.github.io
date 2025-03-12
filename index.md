@@ -23,7 +23,7 @@ excerpt: "Welcome to the crypto beer revolution!"
         </ul>
       </li>
       <li>Bonus: 15% off beer orders when paying with $CoinBevAI</li>
-      <li>Backed by MetaBrewSociety in 2025</li>
+      <li><a href="https://www.metabrewsociety.com/en/pages/coinbevai" target="_blank">Backed by MetaBrewSociety in 2025</a></li>
     </ul>
   </div>
   <div class="section-teaser">

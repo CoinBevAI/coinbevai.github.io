@@ -25,11 +25,7 @@ These NFTs can be burned in participating brewery shops to receive physical beer
 Beyond 2025, $CoinBevAI will focus on building a diverse network of brewery partnerships. By leveraging our community's global presence, we'll onboard local breweries in key markets, significantly reducing shipping costs and expanding accessibility for token holders worldwide.
 
 ## Current Shipping Costs
-While we work towards local partnerships, MetaBrew handles worldwide distribution. The current shipping-costs are:
-- Germany: $7.50
-- Europe: $15.00
-- US/Canada: $45.00
-- Australia/NZ: $90.00
+While we work towards local partnerships, MetaBrew handles worldwide distribution. You can find up-to-date information on the [Redeem for beer page](https://www.metabrewsociety.com/en/pages/coinbevai){:target="_blank"}.
 
 ## Payment Benefits
 MetaBrewSociety leads the way by offering a 15% discount on all purchases made with $CoinBevAI. This model will serve as a blueprint for future brewery partnerships, creating a standardized benefit system across our network.
